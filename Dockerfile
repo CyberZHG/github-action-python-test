@@ -1,7 +1,7 @@
 FROM jfloff/alpine-python
 
-LABEL "com.github.actions.name"="python-test"
-LABEL "com.github.actions.description"="Run tests for Python codes."
+LABEL "com.github.actions.name"="python-nose-test"
+LABEL "com.github.actions.description"="Run nose tests for Python codes."
 LABEL "com.github.actions.icon"="check-circle"
 LABEL "com.github.actions.color"="black"
 

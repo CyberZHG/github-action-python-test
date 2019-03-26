@@ -5,7 +5,7 @@ GitHub action that runs `nosetests`.
 
 ## Usage
 
-Run lint with default setting:
+Dependencies in `requirements.txt` will be installed. Run test with default setting:
 
 ```
 workflow "Python Test" {
