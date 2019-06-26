@@ -14,7 +14,7 @@ workflow "Python Test" {
 }
 
 action "python-test" {
-  uses = "CyberZHG@github-action-python-test@master"
+  uses = "CyberZH/@github-action-python-test@master"
 }
 ```
 
